@@ -30,9 +30,12 @@ Das ist mein Buch. Es ist alt.
 
 Das sind Akshay und Sify. Sie wohnen in Hamburg
 
+Ich heisse Tom
 
+Er Whohnt in Berlin
 
+Sprechen sie Deutsch
 
-
+Kommst du aus England?
 
 

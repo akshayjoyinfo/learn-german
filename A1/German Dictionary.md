@@ -24,3 +24,6 @@ wichtig - important
 
 Sonstiges - miscellanous
 
+Bilde Satze -  build sentense
+
+Das MusikInstrument =  music instrument
