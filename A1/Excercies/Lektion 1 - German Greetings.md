@@ -1,4 +1,4 @@
-# A1 German - Greetings
+# A1 German - Lektion 1 - Begruessungen / Greetings
 
 Hallo
 Gutten Tag
@@ -9,6 +9,7 @@ Gute Nacht
 -> Fancy Greetings
 Gruss Gott - Hello
 Gruss Sie / Gruss dich!
+Servus -  Hello
 Tschuss!
 Auf Wiedersehen -  in person see you again
 Auf Wiederhoeren - telephone bye
