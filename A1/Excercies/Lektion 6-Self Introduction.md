@@ -23,7 +23,7 @@ Ich bin Ledig -  I am single.
 Ich bin verheiratet -  I am married.
 Ich habe ein kind - I have one child
 I ch habe zwei kinder - I have two childs.
-Ich werde keine Kinder haben. - I am not going to have kids.
+Ich werde keine kinder haben. - I am not going to have kids.
 
 Meine hobbys sind fernsehen und musik hoern
 
