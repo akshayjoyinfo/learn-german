@@ -1,4 +1,4 @@
-# A1 German - Lektion 7 - Getting to know Someone - Kennenlernen
+# A1 German - Lektion 7 - Getting to know Someone - Jamand Kennenlernen
 
 
 Formal - Sie  - Strangers/ Official Situation
@@ -42,7 +42,7 @@ Hast Du kinder? Ja, Ich habe zwei kinder, nein , ich habe keine kinder?
 
 
 
-
+Wie gehts? how are you?DAnke, es geht
 
 
 
